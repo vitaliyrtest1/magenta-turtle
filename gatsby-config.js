@@ -1,6 +1,6 @@
 const siteMetadata = require('./site-metadata.json')
 
-console.log('no');
+console.log('no ');
 module.exports = {
     pathPrefix: '/',
     siteMetadata: siteMetadata,
