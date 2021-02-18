@@ -101,8 +101,6 @@ seo:
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
-    - name: 'twitter:title'
-      value: Stackbit Starter Theme
     - name: 'twitter:description'
       value: The preview of the Starter theme
     - name: 'twitter:image'
