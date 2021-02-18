@@ -391,7 +391,8 @@ models:
         label: Title
         description: The title of the section
       - type: string
-        name: 
+        name: titleColor
+        label: Title color
       - type: string
         name: subtitle
         label: Subtitle
