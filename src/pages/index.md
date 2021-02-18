@@ -106,9 +106,5 @@ seo:
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
-    - name: 'twitter:title'
-      value: s
-      keyName: name
-      relativeUrl: false
 template: advanced
 ---
