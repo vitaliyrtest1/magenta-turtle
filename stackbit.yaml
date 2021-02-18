@@ -391,6 +391,8 @@ models:
         label: Title
         description: The title of the section
       - type: string
+        name: 
+      - type: string
         name: subtitle
         label: Subtitle
         description: The subtitle of the section
