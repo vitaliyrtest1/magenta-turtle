@@ -18,6 +18,7 @@ sections:
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
+    titleColor: red
     background:
       background_color: blue
       background_image: images/diagonal-lines.svg
