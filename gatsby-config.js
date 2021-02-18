@@ -3,7 +3,7 @@ const siteMetadata = require('./site-metadata.json')
 console.log('yes');
 module.exports = {
     pathPrefix: '/',
-    siteMetadata: {},
+    siteMetadata: siteMetadata,
     plugins: [
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
