@@ -46,6 +46,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
+        image: images/2.png
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
