@@ -19,6 +19,12 @@ sections:
         new_window: false
         no_follow: false
         type: action
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
     align: left
     image_alt: Hero placeholder image
     image_position: right
