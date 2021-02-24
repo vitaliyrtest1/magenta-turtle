@@ -76,6 +76,7 @@ sections:
     show_recent: false
     recent_count: 0
     type: blog_feed_section
+  - type: contact_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
