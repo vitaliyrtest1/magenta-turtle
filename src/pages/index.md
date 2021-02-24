@@ -13,7 +13,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
-      - label: lorem-ipsum
+      - label: lorem-ipsum-test
         url: lorem-ipsum
         style: link
         new_window: false
