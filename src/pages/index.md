@@ -83,10 +83,6 @@ sections:
   - title: lorem-ipsum
     team: []
     type: team_section
-  - title: lorem-ipsum
-    show_recent: false
-    recent_count: 0
-    type: blog_feed_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
