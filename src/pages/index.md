@@ -79,6 +79,12 @@ sections:
             url: /features
             style: secondary
   - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    has_background: false
+    background_color: white
+    type: cta_section
+  - title: lorem-ipsum
     show_recent: false
     recent_count: 0
     type: blog_feed_section
